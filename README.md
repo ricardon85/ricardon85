@@ -3,7 +3,7 @@
 <h2>About me</h2>
 
 - 🔭 I’m currently working on personal and open source projects
-- 🌱 I’m currently learning Python, Docker, Kubernets, JavaScript, CSS, Data Science, Flutter, Startup Creation and Management
+- 🌱 I’m currently learning DevOPS, Micro Services, Keycloak, Containers, TrueNAS
 - 👯 I’m looking to collaborate on more projects
 - 📫 How to reach me: https://telegram.me/ricardon85
 
