@@ -1,6 +1,6 @@
 <h1><img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Hello+There!"></h1>
 <div align="center">
-	<h3 align="center">Connect With Me!!! <img align="center" src="https://github.com/ricardon85/ricardon85/blob/main/gifs/Handshake.gif" height="33px"/></h3>
+	<h3 align="center">Connect With Me<img align="center" src="https://github.com/ricardon85/ricardon85/blob/main/gifs/Handshake.gif" height="33px"/></h3>
 	<center><a href="mailto:ricardon85@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a></center>
 	<center><a href="https://www.linkedin.com/in/ricardo-nizzola"><img src="https://img.icons8.com/color/50/000000/linkedin.png"></a></center>
 	<center><a href="https://telegram.me/ricardon85"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a></center>
